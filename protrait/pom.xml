@@ -19,6 +19,25 @@
             <artifactId>hive-exec</artifactId>
             <version>3.1.2</version>
         </dependency>
+
+        <dependency>
+            <groupId>com.aliyun.odps</groupId>
+            <artifactId>odps-udf-local</artifactId>
+            <version>0.31.4-public</version>
+        </dependency>
+
+        <dependency>
+            <groupId>com.aliyun.odps</groupId>
+            <artifactId>odps-sdk-core</artifactId>
+            <version>0.31.4-public</version>
+        </dependency>
+
+        <dependency>
+            <groupId>com.aliyun.odps</groupId>
+            <artifactId>odps-sdk-udf</artifactId>
+            <version>0.31.4-public</version>
+        </dependency>
+
         <dependency>
             <groupId>org.junit.jupiter</groupId>
             <artifactId>junit-jupiter</artifactId>
